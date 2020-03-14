@@ -1,0 +1,13 @@
+***RESUME PARSER***
+Theme:
+Software should read the resumes and it should separate the content with respect to user requirement with good user interface.
+
+Requirements Analysis:
+1)Software should have minimum 10 resumes reading capability at a time.
+2)It should accept the files of pdf extensions.
+3)It should separate the files with different extension.
+4)If any of the feature is missing for perticular document, it should print the statement "NOT AVAILABLE".
+5)It should print the content in separate columns with respect to column heading in single CSV file.
+
+Softwares Required:
+1)Python 3
