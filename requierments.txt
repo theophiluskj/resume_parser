@@ -1,0 +1,29 @@
+                                                                      PROJECT REQUIERMENTS ANALYISIS
+
+
+ Purpose:
+
+        The main purpose of the project to save the time , effort to read the candidate resume  and check their qualities easly. 
+        Since we are seen lot of time to shortlist the resumes. Giving 100  or more resumes  in pdf or document format and get 
+        the output in XL sheet format. resume parser makes work very easy to read.
+
+  
+ processing steps:
+   
+1. Set user parameters based on resume what candidate's resume have Qualities .
+
+2. Parameters like Name, Phone Number,Email ID, Percentage, Etc.
+
+3. Ask user what kind of reqierments need from the candidate's resume.
+
+4. Mention the file extenstion to read that type of files in to project.
+
+5. This can be read data from different files and extract to  XL sheet format.
+
+6. Print the  resume content in XL format with suggested parameters and it will be in single coloumn with different headings in rows.
+
+7. suggested information prints under requierments headings in XL sheet.
+
+8. If any requierments  is missing in the resume , It will show the " data is missing".
+    
+       
