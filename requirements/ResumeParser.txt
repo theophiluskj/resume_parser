@@ -12,3 +12,11 @@ Requirements Analysis:
 Softwares Required:
 1)Python 3
 
+The python modules that are expected to use:
+1) pdfminer
+2) doc2text
+3) spaCy
+4) re
+5) pandas
+6) nltk
+
